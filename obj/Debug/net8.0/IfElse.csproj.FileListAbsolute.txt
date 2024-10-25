@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\bin\Debug\net8.0\IfElse.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\bin\Debug\net8.0\IfElse.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\bin\Debug\net8.0\IfElse.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\bin\Debug\net8.0\IfElse.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\IfElse\obj\Debug\net8.0\ref\IfElse.dll
